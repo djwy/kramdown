@@ -47,6 +47,8 @@ Or that \**that\** way
 
 [http://blah.com/blah_%28](http://blah.com/blah_%28)
 
+[example.com/example10_this-should-not-be-emphasized_%28ever%29](example.com/example10_this-should-not-be-emphasized_%28ever%29)
+
 [A-_B](A_-B)
 
 - _test_
@@ -61,3 +63,5 @@ Or that \**that\** way
 it--by design--_cannot have side-effects_.
 
 it---by design---_cannot have side-effects_.
+
+example10_this-should-not-be-emphasized_%28ever%29
